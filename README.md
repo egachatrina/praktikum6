@@ -1,4 +1,5 @@
 # praktikum6
+<<<<<<< HEAD
 
 # code
 
@@ -91,3 +92,6 @@ while True:
 6. gunakan while True untuk menlooping/mengulang statment.
 7. gunakan statment if, elif, else, di dalam while True dan panggil fungsi dari masing masing fungsi, contoh:
 ![flowchart](/flowchart praktikum6.png)
+=======
+![flowchart](/flowchart.png)
+>>>>>>> 988a79d6486f2eb8cffd21a2df1c834d1644f86c
