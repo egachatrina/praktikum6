@@ -1,5 +1,6 @@
 # praktikum6
-<<<<<<< HEAD
+
+![img.1](Screenshot/flowchart.png)
 
 # code
 
@@ -81,6 +82,7 @@ while True:
         exit()
     else:
         print("PILIHAN MENU TIDAK ADA!")
+```
 
 # penjelasan
 
@@ -91,7 +93,4 @@ while True:
 5. gunakan fungsi def ubah(nama) di isi dengan inputan nama dan mengubah isi element pada nama tersebut.
 6. gunakan while True untuk menlooping/mengulang statment.
 7. gunakan statment if, elif, else, di dalam while True dan panggil fungsi dari masing masing fungsi, contoh:
-![flowchart](/flowchart praktikum6.png)
-=======
-![flowchart](/flowchart.png)
->>>>>>> 988a79d6486f2eb8cffd21a2df1c834d1644f86c
+
